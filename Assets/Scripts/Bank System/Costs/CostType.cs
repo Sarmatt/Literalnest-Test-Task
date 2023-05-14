@@ -1,0 +1,1 @@
+public enum CostType { Games, Food, Music, Grocery, Investment, Taxes, Salary, LoanRepayement }
